@@ -1,6 +1,7 @@
 # UAS Bahasa Pemrograman 1
 
-silakan tuliskan langkah-langkah disertai screenshotnya
+Lakukan Fork dari repository berikut: https://github.com/abuazzam/uaspy, kemudian Clone
+ke local repository.
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/46917932/55854440-eb240200-5b8e-11e9-9218-340cf43388c2.png)
 
